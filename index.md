@@ -1,5 +1,5 @@
 # *I have 3 assignments due this weekend and I feel stressful so I find the original crying meme*
-### **Then put a sentence to this meme and save it as a png file**
+### **Then I put a sentence to it and created my own meme and saved it as a png file**
 
 <!--- unordered lists --->
 * library(magick)
