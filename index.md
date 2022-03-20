@@ -1,5 +1,6 @@
-# I have 3 assignments due this weekend
+# I have 3 assignments due this weekend and I feel stressful so I find the original crying meme
 
+<!--- unordered lists --->
 library(magick)
 
 meme <- image_read("https://i.kym-cdn.com/photos/images/original/001/111/566/cf0.jpg")%>% 
