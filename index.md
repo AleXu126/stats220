@@ -1,4 +1,4 @@
-# I have 3 assignments due this weekend and I feel stressful so I find the original crying meme
+# **I have 3 assignments due this weekend and I feel stressful so I find the original crying meme**
 
 <!--- unordered lists --->
 * library(magick)
